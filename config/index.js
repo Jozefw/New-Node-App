@@ -1,3 +1,4 @@
+// this is the config.json file
 var configValues = require('./config');
 
 module.exports = {
